@@ -22,7 +22,7 @@ Finance Data: Expenses, Profit, ROI, Budget Allocations
 Operations Data: Efficiency Score, Customer Satisfaction, Order Processing Time
 Data was extracted via SQL queries and combined with Excel data in Power BI for analysis and visualization.
 
-Screenshot:
+Screenshot: https://github.com/abdul-afreed/Data-Visualization-for-business-optimization/blob/main/prog2-1.png
 
 
 
